@@ -50,3 +50,7 @@ Some e-books I have read and recommend.
 
 ### JavaScript
 
+## Machine Learning
+
+- Machine Learning in Action
+
