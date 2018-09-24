@@ -45,6 +45,8 @@ Some e-books I have read and recommend.
 - C++ Primer
 - Effective C++
 
+### Java
+
 ### Python
 
 - A Byte of Python
