@@ -1,6 +1,6 @@
 # e-book-collections
 
-Some e-books I have read and recommend.
+Some E-Books I have read and recommend.
 
 ## Computer Science
 
