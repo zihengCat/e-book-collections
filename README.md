@@ -23,6 +23,7 @@ Some E-Books I have read and recommend.
 ## Machine Learning
 
 - Machine Learning in Action
+- Dive into Deep Learning
 
 ## UNIX & Linux
 
