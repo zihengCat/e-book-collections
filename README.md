@@ -62,4 +62,5 @@ Some E-Books I have read and recommend.
 ## Other
 
 - Docker — 从入门到实践
+- Elasticsearch: The Definitive Guide
 
