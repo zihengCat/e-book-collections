@@ -60,6 +60,8 @@ Some E-Books I have read and recommend.
 
 ### JavaScript
 
+- Learning JavaScript Data Structures and Algorithms
+
 ## Other
 
 - Docker — 从入门到实践
