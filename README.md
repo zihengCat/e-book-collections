@@ -62,8 +62,12 @@ Some E-Books I have read and recommend.
 
 - Learning JavaScript Data Structures and Algorithms
 
+## Databases
+
+- Elasticsearch: The Definitive Guide
+- Redis 设计与实现
+
 ## Other
 
 - Docker — 从入门到实践
-- Elasticsearch: The Definitive Guide
 
