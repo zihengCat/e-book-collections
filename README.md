@@ -32,6 +32,16 @@ Some E-Books I have read and recommend.
 - The UNIX Programming Environment
 - Advanced Programming in the UNIX Environment
 
+## Databases
+
+- SQL in 10 Minutes, Sams Teach Yourself
+- Elasticsearch: The Definitive Guide
+- Redis 设计与实现
+
+## Cloud Native
+
+- Docker — 从入门到实践
+
 ## Programming Languages
 
 ### C
@@ -63,13 +73,4 @@ Some E-Books I have read and recommend.
 ### JavaScript
 
 - Learning JavaScript Data Structures and Algorithms
-
-## Databases
-
-- Elasticsearch: The Definitive Guide
-- Redis 设计与实现
-
-## Other
-
-- Docker — 从入门到实践
 
