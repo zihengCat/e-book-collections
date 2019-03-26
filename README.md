@@ -20,6 +20,10 @@ Some E-Books I have read and recommend.
 - 图解 TCP/IP
 - 图解 HTTP
 
+## Compiler
+
+- Programming Language Pragmatics
+
 ## Machine Learning
 
 - Machine Learning in Action
