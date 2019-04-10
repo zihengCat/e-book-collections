@@ -66,6 +66,7 @@ Some E-Books I have read and recommend.
 - Thinking in Java
 - Thinking in Enterprise Java
 - Effective Java
+- Java Concurrency in Practice
 - 深入理解 Java 虚拟机
 
 ### Python
