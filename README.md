@@ -68,6 +68,7 @@ Some E-Books I have read and recommend.
 - Effective Java
 - Java Concurrency in Practice
 - 深入理解 Java 虚拟机
+- 深入理解 Java 内存模型
 
 ### Python
 
