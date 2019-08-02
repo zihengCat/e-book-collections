@@ -78,6 +78,7 @@ Some *e-books* I have read and recommended.
 - Java Concurrency in Practice
 - 深入理解 Java 虚拟机
 - 深入理解 Java 内存模型
+- Java Performance
 
 ### Python
 
