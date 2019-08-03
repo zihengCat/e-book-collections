@@ -48,6 +48,7 @@ Some *e-books* I have read and recommended.
 
 ## Distributed Systems
 
+- Hadoop - The Definitive Guide
 - Parallel Programming with Python
 
 ## Cloud Native
