@@ -60,6 +60,13 @@ Some *e-books* I have read and recommended.
 
 - Spring in Action
 
+## Others
+
+- The Mythical Man-Month
+- Soft Skills The Software Developer's Life Manual
+- 码农翻身：用故事给技术加点料
+- 浪潮之巅
+
 ## Programming Languages
 
 ### C
