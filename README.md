@@ -39,6 +39,7 @@ Some *e-books* I have read and recommended.
 ## Databases
 
 - SQL in 10 Minutes, Sams Teach Yourself
+- High Performance MySQL
 - Elasticsearch: The Definitive Guide
 - Redis 设计与实现
 
