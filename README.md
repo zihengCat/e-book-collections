@@ -20,13 +20,13 @@ Some *e-books* I have read and recommended.
 - Modern Operating Systems
 - 30 天自制操作系统
 
-## Networks
+## Computer Networks
 
 - Computer Networks
 - 图解 TCP/IP
 - 图解 HTTP
 
-## Compiler
+## Compiler Principles
 
 - Programming Language Pragmatics
 
@@ -36,6 +36,10 @@ Some *e-books* I have read and recommended.
 - UNIX/Linux 编程实践教程
 - The UNIX Programming Environment
 - Advanced Programming in the UNIX Environment
+
+## Design Pattern
+
+- 大话设计模式
 
 ## Databases
 
