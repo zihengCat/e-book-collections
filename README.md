@@ -62,6 +62,10 @@ Some *e-books* I have read and recommended.
 
 - Docker - 从入门到实践
 
+## Big Data
+
+- Druid 实时大数据分析原理与实践
+
 ## Web Development
 
 - Spring in Action
