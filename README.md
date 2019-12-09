@@ -55,7 +55,6 @@ Some *e-books* I have read and recommended.
 
 ## Distributed Systems
 
-- Hadoop - The Definitive Guide
 - Parallel Programming with Python
 
 ## Cloud Native
@@ -64,6 +63,8 @@ Some *e-books* I have read and recommended.
 
 ## Big Data
 
+- Hadoop - The Definitive Guide
+- Kafka - The Definitive Guide
 - Druid 实时大数据分析原理与实践
 
 ## Web Development
@@ -114,3 +115,4 @@ Some *e-books* I have read and recommended.
 
 - Learning JavaScript Data Structures and Algorithms
 
+<!-- EOF -->
