@@ -38,8 +38,9 @@ Some *e-books* I have read and recommended.
 - The UNIX Programming Environment
 - Advanced Programming in the UNIX Environment
 
-## Design Pattern
+## Design Patterns
 
+- Dive Into DESIGN PATTERNS
 - 大话设计模式
 
 ## Databases
