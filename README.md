@@ -48,8 +48,15 @@ Some *e-books* I have read and recommended.
 
 - SQL in 10 Minutes, Sams Teach Yourself
 - High Performance MySQL
-- Elasticsearch: The Definitive Guide
 - Redis 设计与实现
+
+## Big Data
+
+- Hadoop - The Definitive Guide
+- Kafka - The Definitive Guide
+- Elasticsearch - The Definitive Guide
+- Druid 实时大数据分析原理与实践
+- Stream Processing with Apache Flink
 
 ## Machine Learning
 
@@ -63,12 +70,6 @@ Some *e-books* I have read and recommended.
 ## Cloud Native
 
 - Docker - 从入门到实践
-
-## Big Data
-
-- Hadoop - The Definitive Guide
-- Kafka - The Definitive Guide
-- Druid 实时大数据分析原理与实践
 
 ## Web Development
 
