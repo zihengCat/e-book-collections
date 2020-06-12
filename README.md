@@ -82,6 +82,7 @@ Some *e-books* I have read and recommended.
 - The Mythical Man-Month
 - Soft Skills The Software Developer's Life Manual
 - 码农翻身：用故事给技术加点料
+- 观止：微软创建 NT 和未来的夺命狂奔
 - 浪潮之巅
 
 ## Programming Languages
