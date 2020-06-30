@@ -35,10 +35,10 @@ Some *e-books* I have read and recommended.
 
 ## UNIX & Linux
 
-- 鳥哥的 Linux 私房菜
-- UNIX/Linux 编程实践教程
 - The UNIX Programming Environment
 - Advanced Programming in the UNIX Environment
+- 鳥哥的 Linux 私房菜
+- UNIX/Linux 编程实践教程
 
 ## Design Patterns
 
@@ -56,8 +56,8 @@ Some *e-books* I have read and recommended.
 - Hadoop - The Definitive Guide
 - Kafka - The Definitive Guide
 - Elasticsearch - The Definitive Guide
-- Druid 实时大数据分析原理与实践
 - Stream Processing with Apache Flink
+- Druid 实时大数据分析原理与实践
 
 ## Machine Learning
 
@@ -70,8 +70,8 @@ Some *e-books* I have read and recommended.
 
 ## Cloud Native
 
-- Docker - 从入门到实践
 - Kubernetes in Action
+- Docker - 从入门到实践
 
 ## DevOps
 
