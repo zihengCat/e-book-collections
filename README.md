@@ -122,7 +122,7 @@ Some *e-books* I have read and recommended.
 - Python 源码剖析
 - Flask Web Development
 
-### Golang
+### Go
 
 - Effective Go
 
