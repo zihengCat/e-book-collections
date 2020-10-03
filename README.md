@@ -13,6 +13,7 @@ Some *e-books* I have read and recommended.
 - Algorithms
 - Data Structures and Algorithm Analysis in C++
 - Learning JavaScript Data Structures and Algorithms
+- 我的第一本算法书
 - 大话数据结构
 - 数据结构（C++ 语言版）
 
