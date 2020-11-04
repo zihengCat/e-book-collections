@@ -128,6 +128,7 @@ Some *e-books* I have read and recommended.
 
 ### Go
 
+- The Go Programming Language
 - Effective Go
 
 ### JavaScript
@@ -135,3 +136,4 @@ Some *e-books* I have read and recommended.
 - Learning JavaScript Data Structures and Algorithms
 
 <!-- EOF -->
+
