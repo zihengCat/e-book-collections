@@ -78,11 +78,12 @@ Some *e-books* I have read and recommended.
 
 - 持续交付：发布可靠软件的系统方法
 
-## Backend Development
+## Backend
 
 - Spring in Action
+- Flask Web Development
 
-## Frontend Web Development
+## Frontend
 
 - 深入浅出 React 和 Redux
 
@@ -128,7 +129,6 @@ Some *e-books* I have read and recommended.
 - A Byte of Python
 - Fluent Python
 - Python 源码剖析
-- Flask Web Development
 
 ### Go
 
