@@ -78,9 +78,13 @@ Some *e-books* I have read and recommended.
 
 - 持续交付：发布可靠软件的系统方法
 
-## Web Development
+## Back-end Development
 
 - Spring in Action
+
+## Front-end Web Development
+
+- 深入浅出 React 和 Redux
 
 ## Others
 
@@ -130,10 +134,11 @@ Some *e-books* I have read and recommended.
 
 - The Go Programming Language
 - Effective Go
+- The Way to Go - A Thorough Introduction to the Go Programming Language
+- Go 语言设计与实现
 
 ### JavaScript
 
 - Learning JavaScript Data Structures and Algorithms
 
 <!-- EOF -->
-
