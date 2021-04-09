@@ -78,11 +78,11 @@ Some *e-books* I have read and recommended.
 
 - 持续交付：发布可靠软件的系统方法
 
-## Back-end Development
+## Backend Development
 
 - Spring in Action
 
-## Front-end Web Development
+## Frontend Web Development
 
 - 深入浅出 React 和 Redux
 
