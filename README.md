@@ -65,8 +65,9 @@ Some *e-books* I have read and recommended.
 - Machine Learning in Action
 - Dive into Deep Learning
 
-## Distributed Systems
+## Parallel Programming
 
+- Is Parallel Programming Hard, And, If So, What Can You Do About It?
 - Parallel Programming with Python
 
 ## Cloud Native
