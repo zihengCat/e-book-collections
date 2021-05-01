@@ -45,6 +45,7 @@ Some *e-books* I have read and recommended.
 - Advanced Programming in the UNIX Environment
 - 鳥哥的 Linux 私房菜
 - UNIX/Linux 编程实践教程
+- UNIX: A History and a Memoir
 
 ## Design Patterns
 
