@@ -141,6 +141,7 @@ Some *e-books* I have read and recommended.
 
 ### JavaScript
 
+- Eloquent JavaScript
 - Learning JavaScript Data Structures and Algorithms
 
 <!-- EOF -->
