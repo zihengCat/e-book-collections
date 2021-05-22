@@ -33,6 +33,7 @@ Some *e-books* I have read and recommended.
 ## Compiler Principles
 
 - Programming Language Pragmatics
+- Crafting Interpreters
 
 ## Parallel Programming
 
