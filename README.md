@@ -1,4 +1,4 @@
-# E-Book Collections
+# E-book Collections
 
 Some *e-books* I have read and recommended.
 
