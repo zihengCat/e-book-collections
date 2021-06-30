@@ -74,6 +74,7 @@ Some *e-books* I have read and recommended.
 
 ## Cloud Native
 
+- Kubernetes Handbook — Kubernetes 中文指南／云原生应用架构实践手册
 - Kubernetes in Action
 - Docker - 从入门到实践
 
