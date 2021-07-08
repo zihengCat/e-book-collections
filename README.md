@@ -52,6 +52,7 @@ Some *e-books* I have read and recommended.
 
 - Dive Into DESIGN PATTERNS
 - 大话设计模式
+- Object-Oriented Programming With ANSI-C
 
 ## Databases
 
@@ -147,3 +148,4 @@ Some *e-books* I have read and recommended.
 - Learning JavaScript Data Structures and Algorithms
 
 <!-- EOF -->
+
